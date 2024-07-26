@@ -58,8 +58,9 @@ A Conference Management System (CMS) in Laravel is a web-based application desig
 2.  Optimize database queries and use caching mechanisms.
 
 ### Images
-![Screenshot from 2024-07-26 05-23-55](https://github.com/user-attachments/assets/5ffbc1ba-f211-4bf3-84c9-b3e4ff3ef8d7)
-![Screenshot from 2024-07-26 05-24-25](https://github.com/user-attachments/assets/dafa4bb2-9c0c-4928-b4b6-0c06fe37129a)
+
+
 ![Screenshot from 2024-07-26 05-23-55](https://github.com/user-attachments/assets/2b7beefb-51b2-4b95-99ea-6fb31212c4dd)
 ![Screenshot from 2024-07-26 05-24-12](https://github.com/user-attachments/assets/9da87e73-78d6-43cc-a3d4-7d203ecd7ff9)
-
+![Screenshot from 2024-07-26 05-24-25](https://github.com/user-attachments/assets/dafa4bb2-9c0c-4928-b4b6-0c06fe37129a)
+![Screenshot from 2024-07-26 05-24-43](https://github.com/user-attachments/assets/c8832e37-ed12-4333-99a2-1bf156121df8)
