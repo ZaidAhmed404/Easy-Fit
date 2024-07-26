@@ -52,7 +52,12 @@ A Conference Management System (CMS) in Laravel is a web-based application desig
 
 ### Implement HTTPS
 1.  Sanitize and validate user inputs.
-2.  Protect against common web vulnerabilities.
+
+
+### Images
+![Screenshot from 2024-07-26 05-23-55](https://github.com/user-attachments/assets/5ffbc1ba-f211-4bf3-84c9-b3e4ff3ef8d7)
+
+3.  Protect against common web vulnerabilities.
 ### Scalability
 1.  Design the system to handle an increasing number of users and conference activities.
 2.  Optimize database queries and use caching mechanisms.
